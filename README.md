@@ -14,6 +14,10 @@ The **AquaHealth Analytics Dashboard** is an interactive application developed u
 
 - **User-Friendly Interface**: The dashboard offers an intuitive interface that allows users to select years, localities, and visualization parameters, with instant feedback and updates to the visualizations.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 ## Application Flow
 
 ### 1. Initialization and Authentication
@@ -48,4 +52,4 @@ The **AquaHealth Analytics Dashboard** is an interactive application developed u
 - Changes in state are reflected in the UI, such as updating plots when new data is selected or displaying the results of ARIMA analysis.
 
 
-![alt text](image.png)
+
